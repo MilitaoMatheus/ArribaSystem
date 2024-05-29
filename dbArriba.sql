@@ -33,6 +33,8 @@ ValorAcompanhamentos varchar(50),
 ValorFinal varchar(30)
 );
 
+insert into tbLogin(Usuario,Senha)
+values("Kevin","0010518477");
 
 /* Inserindo dados no banco */
 insert into tbLogin(Usuario,Senha)

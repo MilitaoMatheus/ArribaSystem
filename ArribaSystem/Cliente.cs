@@ -294,7 +294,8 @@ namespace ArribaSystem
                     da.SelectCommand = cmd;
                     //FILTTRA OS DADOS DENTRO DO DT
                     da.Fill(dt);
-                    //APRESENTA OS DADOS NO DATAGRIDVIEW (dgv)
+                    //APRESENTA OS DADOS NO DATAGRIDVIEW (dgv
+                    //)
                     dgvCli.DataSource = dt;
                     //DESCONECTA O BANCO
                     con.DesConnectarBD();
