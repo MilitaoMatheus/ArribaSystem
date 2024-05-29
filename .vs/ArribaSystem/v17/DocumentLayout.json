@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|c:\\users\\3ds\\desktop\\arribasystem\\arribasystem\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|solutionrelative:arribasystem\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|c:\\users\\3ds\\desktop\\arribasystem\\arribasystem\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|solutionrelative:arribasystem\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|c:\\users\\3ds\\desktop\\arribasystem\\arribasystem\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|C:\\Users\\3DS\\Desktop\\ArribaSystem\\arribasystem\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|solutionrelative:arribasystem\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,11 +19,11 @@
       "RelativeMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|solutionrelative:arribasystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|c:\\users\\3ds\\desktop\\arribasystem\\arribasystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|C:\\Users\\3DS\\Desktop\\ArribaSystem\\arribasystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|solutionrelative:arribasystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|c:\\users\\3ds\\desktop\\arribasystem\\arribasystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|C:\\Users\\3DS\\Desktop\\ArribaSystem\\arribasystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7E39C9B-A5B7-4242-918E-2C6DFA60048C}|ArribaSystem\\ArribaSystem.csproj|solutionrelative:arribasystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,23 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Pedido.cs",
+              "RelativeDocumentMoniker": "ArribaSystem\\Pedido.cs",
+              "ToolTip": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Pedido.cs",
+              "RelativeToolTip": "ArribaSystem\\Pedido.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAiwHcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:34:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cliente.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Cliente.cs",
               "RelativeDocumentMoniker": "ArribaSystem\\Cliente.cs",
               "ToolTip": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Cliente.cs [Design]",
               "RelativeToolTip": "ArribaSystem\\Cliente.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T10:22:29.001Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T10:22:29.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pedido.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Pedido.cs",
               "RelativeDocumentMoniker": "ArribaSystem\\Pedido.cs",
@@ -58,39 +74,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Menu.cs",
               "RelativeDocumentMoniker": "ArribaSystem\\Menu.cs",
               "ToolTip": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Menu.cs [Design]",
               "RelativeToolTip": "ArribaSystem\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:09:44.454Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-28T18:09:44.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Splash.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Splash.cs",
               "RelativeDocumentMoniker": "ArribaSystem\\Splash.cs",
               "ToolTip": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Splash.cs [Design]",
               "RelativeToolTip": "ArribaSystem\\Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T10:22:22.242Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T10:22:22.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Login.cs",
               "RelativeDocumentMoniker": "ArribaSystem\\Login.cs",
               "ToolTip": "C:\\Users\\3DS\\Desktop\\ArribaSystem\\ArribaSystem\\Login.cs [Design]",
               "RelativeToolTip": "ArribaSystem\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T10:22:19.366Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T10:22:19.366Z"
             }
           ]
         }

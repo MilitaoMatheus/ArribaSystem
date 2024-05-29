@@ -117,6 +117,7 @@ namespace ArribaSystem
             txtValorTotal.Text = Convert.ToString(valorTotal + " reais");
         }
 
+        //Botão Novo
         private void btnNovo_Click(object sender, EventArgs e)
         {
             chkQueijoDerretido.Checked = false;
